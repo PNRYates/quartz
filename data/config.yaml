@@ -1,13 +1,13 @@
-name: Jacky Zhao
+name: Peter Yates
 enableToc: true
 enableLinkPreview: true
-description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+description: Peter Yates's notes.
 page_title:
   "🪴 Quartz 3"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/PeterYates08
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/PNRYates
+  - link_name: Reddit
+    link: https://reddit.com/u/peteryates
